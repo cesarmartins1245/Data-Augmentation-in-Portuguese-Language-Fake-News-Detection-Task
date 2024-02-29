@@ -1,1 +1,1 @@
-# Fake-news-detection-with-machine-learning-and-data-augmentation
+# Data Augmentation in Portuguese Language Fake News Detection Task
